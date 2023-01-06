@@ -58,21 +58,21 @@ Write what this project is all about. It can be a brief summary of what you are 
 ### Links to task files
 
 - **Tasks**
-  1. [Task 0][Task 0]
-  2. [Task 1][Task 1]
-  3. [Task 2][Task 2]
-  4. [Task 3][Task 3]
-  5. [Task 4][Task 4]
-  6. [Task 5][Task 5]
-  7. [Task 6][Task 6]
-  8. [Task 7][Task 7]
+  - [Task 0][Task 0]
+  - [Task 1][Task 1]
+  - [Task 2][Task 2]
+  - [Task 3][Task 3]
+  - [Task 4][Task 4]
+  - [Task 5][Task 5]
+  - [Task 6][Task 6]
+  - [Task 7][Task 7]
 
 - **Advanced tasks**
-  9. [Task 8][Task 8]
-  10. [Task 9][Task 9]
-  11. [Task 10][Task 10]
-  12. [Task 11][Task 11]
-  13. [Task 12][Task 12]
+  - [Task 8][Task 8]
+  - [Task 9][Task 9]
+  - [Task 10][Task 10]
+  - [Task 11][Task 11]
+  - [Task 12][Task 12]
 
 #### Links to other files
   - [Header file][Header file]
