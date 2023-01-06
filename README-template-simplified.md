@@ -2,6 +2,7 @@
 
 ## Table of contents
 
+<-- 
 - [Overview](#overview)
   - [Completed tasks](#completed-tasks)
   - [Links to task files](#links-to-task-files)
