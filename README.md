@@ -8,7 +8,7 @@ It contains two versions:
 Other styles:  
 - [Bliss](./README-template-bliss.md)
 
-**Read Me:** _Don't forget to give this repository a star if you find it useful and also come back to check for updates_
+**Read Me:** _Don't forget to give this repository a star if you find it useful and also come back to check more for updates_
 
 ## Table of Content
 
@@ -46,7 +46,7 @@ There is also a simplified version [**Simplified**](./README-template-simplified
 If the you want other options there is also a variety of other template styles you can choose from which includes [Bliss](./README.template-bliss) and so on...
 ## Useful resource
 
-For those that don't have any idea how markdowns are written or you are having troubles editing the **README-template.md** file, I put in a link to a tutorial below that you will find very useful
+For those that don't have any idea how markdowns are written or you are having troubles editing the [**README-template.md**](./READMME-template.md) file, I put in a link to a tutorial below that you will find very useful
 
 - [Markdown Tutorial](https://www.markdowntutorial.com/)
 
@@ -63,5 +63,8 @@ This template is made possible and written by:
 All thanks to [Frontendmentor](frontendmentor.io) and [Markdown Tutorial](https://www.markdowntutorial.com/) for inspiring me to do this
 
 ## Contribute
+
+**Active Contributors:**
+- [kyilax](https://github.com/kyilax)
 
 If you want to contribute to this project you can send me a [mail](mailto:danielaisosajoseph@gmail.com) or a message on [Twitter](https://www.twitter.com/evil_ghost__)  

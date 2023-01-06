@@ -27,7 +27,7 @@ Description of the project...(remove this)
 
 [Task 0](./file-name)
 
-#### [Task - 1](./filename)
+### [Task - 1](./filename)
 
 **Challenge:**
 
@@ -35,13 +35,13 @@ Description of the project...(remove this)
 
 ## Advanced Task
 
-#### [Task - 013](./filename)
+### [Task - 013](./filename)
 
 **Challenge:**
 
 [Task 100](./file-name)
 
-#### [Task - 014](./filename)
+### [Task - 014](./filename)
 
 **Challenge:**
 
