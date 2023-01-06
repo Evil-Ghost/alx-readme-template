@@ -60,4 +60,4 @@ All thanks to [Frontendmentor](frontendmentor.io) and [Markdown Tutorial](https:
 
 ## Contribute
 
-If you want to contribute to this project you can send me a [mail](danielaisosajoseph@gmail.com) or a message on [Twitter](https://www.twitter.com/evil_ghost__)  
+If you want to contribute to this project you can send me a [mail](mailto:danielaisosajoseph@gmail.com) or a message on [Twitter](https://www.twitter.com/evil_ghost__)  
