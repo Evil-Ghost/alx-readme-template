@@ -66,6 +66,7 @@ Write what this project is all about. It can be a brief summary of what you are 
   6. [Task 5][Task 5]
   7. [Task 6][Task 6]
   8. [Task 7][Task 7]
+
 - **Advanced tasks**
   9. [Task 8][Task 8]
   10. [Task 9][Task 9]
