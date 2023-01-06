@@ -7,6 +7,7 @@ Description of the project(remove this)
 - [Author](#author)
 - [Acknowledgments](#acknowledgements)
 - [Credits](#credits)
+- [Links](#link-to-template)
 
 ## Task Preview
 
