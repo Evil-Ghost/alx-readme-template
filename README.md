@@ -9,7 +9,7 @@ This is a ready made template which can be used for your README.md task in ALX. 
 - [Usage](#usage)
 - [Useful resource](#useful-resource)
 - [Author](#author)
-- [Acknowledgments](#acknowledgements)
+- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
