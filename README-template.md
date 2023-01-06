@@ -182,10 +182,10 @@ Thanks to Evil Ghost for helping me with this template...(Replace this paragraph
 ## Credits
 
 This template is made possible and written by:
-- Website - [Coming soon...](#)
 - GitHub - [Evil-Ghost](https://github.com/Evil-Ghost)
 - Twitter - [@Evil\_Ghost\_\_](https://www.twitter.com/evil_ghost__)
 - Medium - [Evil Ghost](https://medium.com/@evilghost)
+- Website - [Coming soon...](#)
 
 **Note: Do not remove this if you used this template**
 
