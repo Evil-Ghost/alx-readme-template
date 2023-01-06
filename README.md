@@ -5,6 +5,9 @@ It contains two versions:
 1. [Regular](./README-template.md)
 2. [Simplified](./README-template-simplified.md)
 
+Other styles:  
+- [Bliss](./README-template-bliss.md)
+
 **Read Me:** _Don't forget to give this repository a star if you find it useful and also come back to check for updates_
 
 ## Table of Content
@@ -36,10 +39,11 @@ _Dark background_
 ## Usage
 
 You can either clone, fork or download this repository to use it.  
-The file needed is **README-template.md**. You need to copy this file to your project that you are working on, edit it to your taste but don't remove the **Credits** and **Link to template** tags, then rename it to README.md
+The file needed is [**Regular**](./README-template.md). You need to copy this file to your project that you are working on, edit it to your taste but don't remove the **Credits** and **Link to template** tags, then rename it to README.md
 
-There is also a simplified version **README-template-simplified** for those who already get the hang of everything and writing markdown files. You also don't have to delete the notes because they have already been removed. Use the simplified version only if you already know your way around writing mardown files efficiently
+There is also a simplified version [**Simplified**](./README-template-simplified.md) for those who already get the hang of everything and writing markdown files. You also don't have to delete the notes because they have already been removed. Use the simplified version only if you already know your way around writing mardown files efficiently
 
+If the you want other options there is also a variety of other template styles you can choose from which includes [Bliss](./README.template-bliss) and so on...
 ## Useful resource
 
 For those that don't have any idea how markdowns are written or you are having troubles editing the **README-template.md** file, I put in a link to a tutorial below that you will find very useful
