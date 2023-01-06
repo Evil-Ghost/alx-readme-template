@@ -1,8 +1,9 @@
 # ALX README TEMPLATE SIIMPLIFIED(Replace this with title of the project)
 
+<!-- Remove this line if you want Table of contents
 ## Table of contents
 
-<-- 
+ 
 - [Overview](#overview)
   - [Completed tasks](#completed-tasks)
   - [Links to task files](#links-to-task-files)
@@ -16,7 +17,7 @@
 - [Acknowledgments](#acknowledgements)
 - [Credits](#credits)
 - [Link to template](#link-to-template)
--->
+remove this line if you removed the one above -->
 
 ## Overview
 
