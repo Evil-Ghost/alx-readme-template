@@ -1,6 +1,6 @@
 # ALX PROJECT NAME
 
-Description of the project(remove this)
+Description of the project...(remove this)
 
 - [Mandatory Task](#mandatory-task)
 - [Advanced Task](#advanced-task)
@@ -23,29 +23,33 @@ Description of the project(remove this)
 
 #### [Task - 0](./file-name)
 
-This is the task-0 description ....(Remove this)
+**Challenge:**
+
 [Task 0](./file-name)
 
 #### [Task - 1](./filename)
 
-This is the task-1 description ....(Remove this)
+**Challenge:**
+
 [Task 1](./file-name)
 
 ## Advanced Task
 
 #### [Task - 013](./filename)
 
-This is the task-100 description ....(Remove this)
+**Challenge:**
+
 [Task 100](./file-name)
 
 #### [Task - 014](./filename)
 
-This is the task-101 description ....(Remove this)
+**Challenge:**
+
 [Task 101](./file-name)
 
 ## What I learned from this project
 
-Add what you learned here(Remove this)
+Add what you learned here...(Remove this)
 
 ## Author
 
