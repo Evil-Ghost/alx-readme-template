@@ -4,7 +4,7 @@ This is a ready made template which can be used for your README.md task in ALX. 
 ## Table of Content
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
+  - [Preview](#preview)
   - [Links](#links)
 - [Usage](#usage)
 - [Useful resource](#useful-resource)
@@ -13,7 +13,7 @@ This is a ready made template which can be used for your README.md task in ALX. 
 
 ## Overview
 
-### Screenshot
+### Preview
 
 ### Links
 
