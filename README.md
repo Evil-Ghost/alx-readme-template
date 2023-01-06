@@ -1,5 +1,6 @@
 # ALX README TEMPLATE
-This is a ready made template which can be used for your README.md task in ALX. All you need to do is some minor editing and don't forget to remove the notes and paragraph where stated
+This is a ready made template which can be used for your README.md task in ALX. All you need to do is some minor editing and don't forget to remove the notes and paragraph where stated  
+**Read Me:** _Don't forget to give this repository a star if you find it useful and also come back to check for updates_
 
 ## Table of Content
 
