@@ -15,6 +15,13 @@ This is a ready made template which can be used for your README.md task in ALX. 
 
 ### Preview
 
+![preview of README-template.md light](./images/preview-light.png)  
+_Light background_
+
+![preview of README-template.md dark](./images/preview-dark.png)  
+_Dark background_
+
+
 ### Links
 
 - Link to this repository: [alx-readme-template](https://github.com/Evil-Ghost/alx-readme-template)
