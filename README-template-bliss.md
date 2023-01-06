@@ -5,6 +5,7 @@ Description of the project
 - [Author](#author)
 - [Acknowledgments](#acknowledgements)
 - [Credits](#credits)
+- [Links](#link-to-template)
 
 ## Task Preview
 - [X] Mandatory Task
