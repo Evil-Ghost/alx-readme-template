@@ -29,7 +29,7 @@ Write what this project is all about. It can be a brief summary of what you are 
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+- [Acknowledgments](#acknowledgements)
 - [Credits](#credits)
 - [Link to template](#link-to-template)
 
@@ -72,7 +72,8 @@ Write what this project is all about. It can be a brief summary of what you are 
   11. [Task 10][Task 10]
   12. [Task 11][Task 11]
   13. [Task 12][Task 12]
-- **Other files**
+
+#### Links to other files
   - [Header file][Header file]
 
 **Note: The extra braces is to the links below. If you add a text at the top remember to put the link below. Follow the format which was used. Delete this note after.**
