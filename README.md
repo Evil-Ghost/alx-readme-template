@@ -5,7 +5,6 @@ It contains two versions:
 1. [Regular](./README-template.md)
 2. [Simplified](./README-template-simplified.md)
 
-If you want to contribute to this project you can send me a mail on danielaisosajoseph@gmail.com or a message on [Twitter](https://www.twitter.com/evil_ghost__)  
 **Read Me:** _Don't forget to give this repository a star if you find it useful and also come back to check for updates_
 
 ## Table of Content
@@ -17,6 +16,7 @@ If you want to contribute to this project you can send me a mail on danielaisosa
 - [Useful resource](#useful-resource)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
+- [Contribute](#contribute)
 
 ## Overview
 
@@ -57,3 +57,7 @@ This template is made possible and written by:
 ## Acknowledgments
 
 All thanks to [Frontendmentor](frontendmentor.io) and [Markdown Tutorial](https://www.markdowntutorial.com/) for inspiring me to do this
+
+## Contribute
+
+If you want to contribute to this project you can send me a mail on danielaisosajoseph@gmail.com or a message on [Twitter](https://www.twitter.com/evil_ghost__)  
