@@ -5,6 +5,7 @@ It contains two versions:
 1. [Regular](./README-template.md)
 2. [Simplified](./README-template-simplified.md)
 
+If you want to contribute to this project you can send me a mail on danielaisosajoseph@gmail.com or a message on [Twitter](https://www.twitter.com/evil_ghost__)  
 **Read Me:** _Don't forget to give this repository a star if you find it useful and also come back to check for updates_
 
 ## Table of Content
