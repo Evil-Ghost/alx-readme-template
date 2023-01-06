@@ -8,7 +8,7 @@
   - [Completed tasks](#completed-tasks)
   - [Links to task files](#links-to-task-files)
     - [Links to other files](#links-to-other-files)
-- [Tasks](#tasks)
+- [Mandatory tasks](#mandatory-tasks)
 - [Advanced tasks](#advanced-tasks)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -28,7 +28,7 @@ remove this line if you removed the one above -->
 
 ### Links to task files
 
-- **Tasks**
+- **Mandatory tasks**
   - [Task 0][Task 0]
 
 - **Advanced tasks**
@@ -42,7 +42,7 @@ remove this line if you removed the one above -->
 [Task 8]: ./replace-this-with-file-name
 [Header file]: ./replace-this-with-file-name
 
-## Tasks
+## Mandatory tasks
 
 ### Task 0
 

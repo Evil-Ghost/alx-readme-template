@@ -10,7 +10,7 @@ Write what this project is all about. It can be a brief summary of what you are 
   - [Completed tasks](#completed-tasks)
   - [Links to task files](#links-to-task-files)
     - [Links to other files](#links-to-other-files)
-- [Tasks](#tasks)
+- [Mandatory tasks](#mandatory-tasks)
   - [Task 0](#task-0)
   - [Task 1](#task-1)
   - [Task 2](#task-2)
@@ -57,7 +57,7 @@ Write what this project is all about. It can be a brief summary of what you are 
 
 ### Links to task files
 
-- **Tasks**
+- **Mandatory tasks**
   - [Task 0][Task 0]
   - [Task 1][Task 1]
   - [Task 2][Task 2]
@@ -96,7 +96,7 @@ Write what this project is all about. It can be a brief summary of what you are 
 
 **Note: replace `replace-this-file-name` with the name of the task file eg `0-strcat.c`. You can also add links here and reference them using just the name in [brackts]. Delete this note after.**
 
-## Tasks
+## Mandatory tasks
 
 ### Task 0
 
