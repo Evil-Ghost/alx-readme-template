@@ -1,5 +1,10 @@
 # ALX README TEMPLATE
 This is a ready made template which can be used for your README.md task in ALX. All you need to do is some minor editing and don't forget to remove the notes and paragraph where stated  
+
+It contains two versions:
+1. [Regular](./README-template.md)
+2. [Simplified](./README-template-simplified.md)
+
 **Read Me:** _Don't forget to give this repository a star if you find it useful and also come back to check for updates_
 
 ## Table of Content
@@ -31,6 +36,8 @@ _Dark background_
 
 You can either clone, fork or download this repository to use it.  
 The file needed is **README-template.md**. You need to copy this file to your project that you are working on, edit it to your taste but don't remove the **Credits** and **Link to template** tags, then rename it to README.md
+
+There is also a simplified version **README-template-simplified** for those who already get the hang of everything and writing markdown files. You also don't have to delete the notes because they have already been removed. Use the simplified version only if you already know your way around writing mardown files efficiently
 
 ## Useful resource
 
